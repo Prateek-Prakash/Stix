@@ -17,7 +17,7 @@ final lightThemeData = ThemeData(
 final darkThemeData = ThemeData(
   colorScheme: ColorScheme.fromSeed(
     seedColor: Colors.deepPurple,
-    brightness: Brightness.light,
+    brightness: Brightness.dark,
   ),
   fontFamily: fontFamily,
   useMaterial3: true,
